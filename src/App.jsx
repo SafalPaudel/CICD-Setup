@@ -285,7 +285,7 @@ export default function App() {
       {/* ACTIVITIES */}
       <section id="activities">
         <p className="section-label">Things to Do</p>
-        <h2 className="section-title">Adventure, culture & calm</h2>
+        <h2 className="section-title">Adventure, culture & calm..happy sad cry baby</h2>
         <p className="section-intro">Beyond the trails, Pokhara offers everything from adrenaline-fuelled adventure sports to quiet moments on the lake and evenings in the bazaar.</p>
         <div className="activities-list">
           {activities.map((a) => (
@@ -318,7 +318,7 @@ export default function App() {
       <section id="practical">
         <p className="section-label">Travel Information</p>
         <h2 className="section-title">Planning your visit to Pokhara?.</h2>
-        <p className="section-intro">Everything you need to know before you arrive — transport, accommodation, permits, money, and health.</p>
+        <p className="section-intro">Everything  you need to know before you arrive — transport, accommodation, permits, money, and health.</p>
         <div className="practical-grid">
           {practical.map((block) => (
             <div className="practical-card" key={block.title}>
