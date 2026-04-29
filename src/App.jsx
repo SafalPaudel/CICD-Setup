@@ -317,7 +317,7 @@ export default function App() {
       {/* PRACTICAL */}
       <section id="practical">
         <p className="section-label">Travel Information</p>
-        <h2 className="section-title">Planning your visit</h2>
+        <h2 className="section-title">Planning your visit to Pokhara?.</h2>
         <p className="section-intro">Everything you need to know before you arrive — transport, accommodation, permits, money, and health.</p>
         <div className="practical-grid">
           {practical.map((block) => (
